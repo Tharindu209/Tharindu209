@@ -34,9 +34,7 @@
 
 - 🔭 I’m currently working on **UA IT(JKH IT)**
 
-- 🌱 I’m currently learning **Devops**
-
-- 👨‍💻 All of my projects are available at [supun's workspace](http://supun.traditionalme.life)
+- 🌱 I’m currently learning **AI and Machine Learning**
 
 - 💬 Ask me about **C, C++, Python, PHP, Java and NodeJS**
 
