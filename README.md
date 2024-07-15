@@ -48,9 +48,9 @@ intersection of technology, driven by a relentless pursuit of excellence. ðŸ› ï¸
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/tharindu-damruwan-880392242/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tharindudamruwan" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/18577069/thari-db01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="tharindudamruwan" height="30" width="40" /></a>
-<a href="https://web.facebook.com/tharindu.damruwan.7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tharindudamruwan" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/tharindu-damruwan-880392242/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tharindudamruwan" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/18577069/thari-db01" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="tharindudamruwan" height="30" width="40" /></a>
+<a href="https://web.facebook.com/tharindu.damruwan.7/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tharindudamruwan" height="30" width="40" /></a>
 </p>
 <br>
 
