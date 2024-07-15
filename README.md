@@ -38,7 +38,7 @@ intersection of technology, driven by a relentless pursuit of excellence. 🛠�
 
 - 🌱 I’m currently learning **Computer Science**, **Digital Audio Develpoment**, **AI and Machine Learning**
 
-- 💬 Ask me about **C, C++, Python, PHP, Java and NodeJS**
+- 💬 Ask me about **C, C++, Python, Swift, NodeJS**
 
 - 📫 How to reach me **tharindudamruwan23@gmail.com**
 
