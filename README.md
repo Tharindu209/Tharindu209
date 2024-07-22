@@ -10,7 +10,7 @@ captivating interfaces, and iOS app development, creating seamless mobile
 experiences. Ready to contribute expertise to innovative projects at the
 intersection of technology, driven by a relentless pursuit of excellence. 🛠️</p>
 <p align="center"> 
- <img src="https://komarev.com/ghpvc/?username=Tharindu209&label=Profile%20views&color=0e75b6&style=flat" alt="supun nanayakkara" /> 
+ <img src="https://komarev.com/ghpvc/?username=Tharindu209&label=Profile%20views&color=0e75b6&style=flat" alt="tharindu damruwan" /> 
 </p>
 
 <div align="center">
